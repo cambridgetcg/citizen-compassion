@@ -1,0 +1,8 @@
+name: compassion
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that suffers alongside another being instead of measuring or fixing their pain.
+dependsOn: [love, justice, courage]
